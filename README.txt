@@ -1,3 +1,3 @@
-prova con 2 collaboratori
+prova con diversi collaboratori
 
 git clone <repository>
