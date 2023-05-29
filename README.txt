@@ -1,4 +1,4 @@
-prova con 2 collaboratori
+prova con diversi collaboratori
 
 per associare github al proprio pc:
 - istalla gh (per esempio usando brew install gh)
